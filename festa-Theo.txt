@@ -21,7 +21,7 @@
    git pull
    git push
    
-   >  Como os colegas também vão fazer push para o mesmo repositório, faz sempre `git pull` antes do `git push`. Se o push for rejeitado, faz `git pull` de novo e repete o `git push`.
+   >  Como os colegas também vão fazer push para o mesmo repositório, faz sempre `git pull` antes do `git push`. Se o push for rejeitado, faz `git pull` de novo e repete o `git push`
 
 ---
 
