@@ -43,13 +43,13 @@ O que mais gosto é do ambiente: todos cantam, dançam e conversam com desconhec
 
 ## 3. A minha história
 
-### [Dá um título à tua história]
+### A noite em que me perdi na Alfama
 
-[Conta uma história que tenhas vivido nesta festa. Pode ser divertida, emocionante, inesperada ou um bocadinho embaraçosa! Escreve pelo menos **dois parágrafos**.]
+Em junho de 2019 fui aos Santos Populares com três amigos. Eu era o único que não conhecia a Alfama, e a certa altura, no meio da multidão, perdi o grupo todo. Sem bateria no telemóvel, fiquei a andar às voltas pelas ruelas durante quase uma hora.
 
-[Lembra-te de responder a perguntas como: *Quando foi? Com quem estavas? O que aconteceu? Como terminou? O que sentiste?*]
+Acabei por ser ajudado por uma senhora que vendia sardinhas, que me deu um prato e me levou até ao largo onde os meus amigos me esperavam. Acabámos a noite a dançar juntos e eu a rir da figura que tinha feito.
 
-> [Escreve aqui uma frase marcante da história — algo que alguém disse ou que tu pensaste nesse momento.]
+> Quem se perde na Alfama nunca fica sozinho por muito tempo.
 
 ## 4. Curiosidades
 
