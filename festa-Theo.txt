@@ -1,0 +1,65 @@
+# A Minha Festa Preferida 
+
+> Autor(a): Theo
+
+---
+
+##  Instruções
+
+1. Faz **clone** deste repositório para o teu computador:
+   
+   git clone https://github.com/melissakaestner-prog/repo-ddm.git
+  
+2. Faz uma cópia deste ficheiro com o teu nome (ex.: `festa-melissa-kaestner.md`) e substitui todos os textos entre `[ ]` pelo teu próprio conteúdo.
+3. Escreve sobre a **tua festa preferida** — pode ser uma festa típica portuguesa, da tua terra, do teu país de origem ou da tua família.
+4. Conta uma **história verdadeira** (ou quase!) que tenhas vivido nessa festa.
+5. Faz **um commit por cada secção** que completares, com mensagens claras. Por exemplo:
+   - `Adiciona apresentação da festa`
+   - `Escreve a história pessoal`
+   - `Adiciona tabela de curiosidades`
+6. No fim, envia o teu trabalho para o GitHub:
+   git pull
+   git push
+   
+   >  Como os colegas também vão fazer push para o mesmo repositório, faz sempre `git pull` antes do `git push`. Se o push for rejeitado, faz `git pull` de novo e repete o `git push`
+
+---
+
+## 1. A festa
+
+Festa Junina [ex.: Santo António]
+Brasil [cidade, região ou país]
+Junho [mês ou data]
+
+[As festas juninas são celebram o nascimento de São João Batista, nas vésperas das solenidades católicas de Santo Antônio, São Pedro, etc. Algumas estão mais ligadas as próprias regiões, com comidas típicas de cada lugar.]
+
+## 2. Porque é a minha preferida
+
+[Conta o que mais gostas nesta festa: a comida, a música, as pessoas, o ambiente…]
+
+- [Dançar na roda]
+- [Comida grátis]
+- [Ambiente alegre]
+
+## 3. A minha história
+
+### [Festa Junina 2016/2017]
+
+[Nada de muito interessante aconteceu, além de ter ido sem a permissão da minha avó.]
+
+[Fui com uma prima que ia ir, e encontrei com meus amigos lá.]
+
+> [Não me lembro bem.]
+
+## 4. Curiosidades
+
+| O quê                 | Descrição                    |
+|-----------------------|------------------------------|
+| Comida típica         | [Pastel]     		       |
+| Música ou dança       | [Músicas Tradicionais]       | 
+| Símbolo da festa      | [Chapéu de Palha e Roupas coloridas]
+| Uma tradição curiosa  | [Caipiras]                   |
+
+---
+
+*Obrigado(a) por leres a minha história!* 
