@@ -1,65 +1,43 @@
-# A Minha Festa Preferida 
+# A Minha Festa Preferida
 
-> Autor(a): *[escreve aqui o teu nome]*
-
----
-
-##  Instruções
-
-1. Faz **clone** deste repositório para o teu computador:
-   
-   git clone [link-do-repositório]
-  
-2. Faz uma cópia deste ficheiro com o teu nome (ex.: `festa-melissa-kaestner.md`) e substitui todos os textos entre `[ ]` pelo teu próprio conteúdo.
-3. Escreve sobre a **tua festa preferida** — pode ser uma festa típica portuguesa, da tua terra, do teu país de origem ou da tua família.
-4. Conta uma **história verdadeira** (ou quase!) que tenhas vivido nessa festa.
-5. Faz **um commit por cada secção** que completares, com mensagens claras. Por exemplo:
-   - `Adiciona apresentação da festa`
-   - `Escreve a história pessoal`
-   - `Adiciona tabela de curiosidades`
-6. No fim, envia o teu trabalho para o GitHub:
-   git pull
-   git push
-   
-   >  Como os colegas também vão fazer push para o mesmo repositório, faz sempre `git pull` antes do `git push`. Se o push for rejeitado, faz `git pull` de novo e repete o `git push`.
+> Autor(a): **Isabela**
 
 ---
 
 ## 1. A festa
 
-**Nome da festa:** [ex.: Santo António]
-**Onde acontece:** [cidade, região ou país]
-**Quando:** [mês ou data]
+**Nome da festa:** Festa da Peruca  
+**Onde acontece:** Casarão da Isa  
+**Quando:** 13/10
 
-[Explica, em 3 a 5 frases, o que é esta festa e porque é importante para as pessoas que a celebram.]
+A Festa da Peruca é uma festa muito divertida, onde as pessoas usam perucas e looks muito chamativos. É uma oportunidade para estar com as amigas, ouvir música, tirar fotografias e aproveitar o momento. O ambiente é descontraído e toda a gente tenta usar uma peruca diferente e engraçada.
 
 ## 2. Porque é a minha preferida
 
-[Conta o que mais gostas nesta festa: a comida, a música, as pessoas, o ambiente…]
+A Festa da Peruca é a minha preferida porque posso divertir-me com as minhas amigas e esquecer um pouco a rotina.
 
-- [Motivo 1]
-- [Motivo 2]
-- [Motivo 3]
+- Posso criar looks diferentes e chamativos.
+- É uma oportunidade para estar com as minhas amigas.
+- A música e o ambiente tornam a festa muito divertida.
+- Gosto de tirar fotografias e guardar recordações desses momentos.
 
 ## 3. A minha história
 
-### [Dá um título à tua história]
+### Uma noite para recordar
 
-[Conta uma história que tenhas vivido nesta festa. Pode ser divertida, emocionante, inesperada ou um bocadinho embaraçosa! Escreve pelo menos **dois parágrafos**.]
+Uma das coisas que mais me marcou na Festa da Peruca foi quando eu e as minhas amigas decidimos fazer looks muito chamativos. Cada uma escolheu uma peruca diferente e começámos a tirar fotografias juntas.
 
-[Lembra-te de responder a perguntas como: *Quando foi? Com quem estavas? O que aconteceu? Como terminou? O que sentiste?*]
+Durante a festa, rimos muito porque algumas das perucas ficaram completamente diferentes do que estávamos à espera. Também aproveitámos para dançar, conversar e experimentar diferentes drinks. No final, foi uma noite muito divertida e fiquei com boas recordações de estar com as minhas amigas.
 
-> [Escreve aqui uma frase marcante da história — algo que alguém disse ou que tu pensaste nesse momento.]
+> "O mais importante é aproveitar o momento com as pessoas que gostamos."
 
 ## 4. Curiosidades
 
-| O quê                 | Descrição                    |
-|-----------------------|------------------------------|
-| Comida típica         | [ex.: sardinhas assadas]     |
-| Música ou dança       | [ex.: marchas populares]     |
-| Símbolo da festa      | [ex.: manjerico]             |
-| Uma tradição curiosa  | [descreve]                   |
+| O quê | Descrição |
 
----
+| Comida típica | Petiscos e comidas para partilhar |
+| Música ou dança | Música animada para dançar durante a festa |
+| Símbolo da festa | As perucas coloridas e os looks chamativos |
+| Uma tradição curiosa | Cada pessoa tenta aparecer com uma peruca diferente e mais engraçada |
 
-*Obrigado(a) por leres a minha história!* 
+*Obrigada por leres a minha história!*
