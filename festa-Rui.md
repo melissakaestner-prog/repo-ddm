@@ -55,10 +55,10 @@ Acabei por ser ajudado por uma senhora que vendia sardinhas, que me deu um prato
 
 | O quê                 | Descrição                    |
 |-----------------------|------------------------------|
-| Comida típica         | [ex.: sardinhas assadas]     |
-| Música ou dança       | [ex.: marchas populares]     |
-| Símbolo da festa      | [ex.: manjerico]             |
-| Uma tradição curiosa  | [descreve]                   |
+| Comida típica         | Sardinhas assadas no pão     |
+| Música ou dança       | Marchas populares     |
+| Símbolo da festa      | Manjerico com quadra             |
+| Uma tradição curiosa  | Saltar a fogueira e oferecer manjerico                   |
 
 ---
 
