@@ -35,11 +35,11 @@ Os Santos Populares são a maior festa de rua de Lisboa. Nos bairros antigos, co
 
 ## 2. Porque é a minha preferida
 
-[Conta o que mais gostas nesta festa: a comida, a música, as pessoas, o ambiente…]
+O que mais gosto é do ambiente: todos cantam, dançam e conversam com desconhecidos como se fossem amigos de longa data.
 
-- [Motivo 1]
-- [Motivo 2]
-- [Motivo 3]
+- A comida, sobretudo as sardinhas no pão e o caldo verde
+- A música popular e as marchas a passar nas ruas
+- Os balões, as bandeirinhas e as ruas todas enfeitadas
 
 ## 3. A minha história
 
