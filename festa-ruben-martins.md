@@ -1,65 +1,44 @@
-# A Minha Festa Preferida 
+# A Minha Festa Preferida
 
-> Autor(a): *[escreve aqui o teu nome]*
-
----
-
-##  Instruções
-
-1. Faz **clone** deste repositório para o teu computador:
-   
-   git clone [link-do-repositório]
-  
-2. Faz uma cópia deste ficheiro com o teu nome (ex.: `festa-melissa-kaestner.md`) e substitui todos os textos entre `[ ]` pelo teu próprio conteúdo.
-3. Escreve sobre a **tua festa preferida** — pode ser uma festa típica portuguesa, da tua terra, do teu país de origem ou da tua família.
-4. Conta uma **história verdadeira** (ou quase!) que tenhas vivido nessa festa.
-5. Faz **um commit por cada secção** que completares, com mensagens claras. Por exemplo:
-   - `Adiciona apresentação da festa`
-   - `Escreve a história pessoal`
-   - `Adiciona tabela de curiosidades`
-6. No fim, envia o teu trabalho para o GitHub:
-   git pull
-   git push
-   
-   >  Como os colegas também vão fazer push para o mesmo repositório, faz sempre `git pull` antes do `git push`. Se o push for rejeitado, faz `git pull` de novo e repete o `git push`.
+> Autor(a): *Ruben Martins*
 
 ---
 
 ## 1. A festa
 
-**Nome da festa:** [ex.: Santo António]
-**Onde acontece:** [cidade, região ou país]
-**Quando:** [mês ou data]
+**Nome da festa:** Festas do Colete Encarnado
+**Onde acontece:** Vila Franca de Xira, Ribatejo
+**Quando:** Primeiro fim de semana de julho
 
-[Explica, em 3 a 5 frases, o que é esta festa e porque é importante para as pessoas que a celebram.]
+As Festas do Colete Encarnado são a grande celebração da cultura ribatejana e homenageiam os campinos, os homens que guardam o gado a cavalo, famosos pelo seu colete vermelho. Durante vários dias, as ruas de Vila Franca de Xira enchem-se de cavalos, toiros, bandas, bancas de comida e muita gente. É uma festa importante porque mantém viva uma tradição com séculos e junta famílias, amigos e visitantes de toda a região.
 
 ## 2. Porque é a minha preferida
 
-[Conta o que mais gostas nesta festa: a comida, a música, as pessoas, o ambiente…]
+Gosto desta festa pelo ambiente único que se vive na vila, pela comida e pelas pessoas com quem a partilho.
 
-- [Motivo 1]
-- [Motivo 2]
-- [Motivo 3]
+- A comida: nada bate uma boa picanha grelhada, com o cheiro a espalhar-se por toda a rua.
+- A música: à noite há concertos e DJs a tocar pop, e a vila inteira canta e dança.
+- O ambiente: ver os campinos a cavalo, de colete vermelho, com a vila em festa, é um espetáculo que não se esquece.
 
 ## 3. A minha história
 
-### [Dá um título à tua história]
+### O colete que não era meu
 
-[Conta uma história que tenhas vivido nesta festa. Pode ser divertida, emocionante, inesperada ou um bocadinho embaraçosa! Escreve pelo menos **dois parágrafos**.]
+No ano passado fui às Festas do Colete Encarnado com um grupo de amigos. Tínhamos combinado que todos íamos vestir algo vermelho em homenagem aos campinos, mas eu esqueci-me e só me lembrei quando já estávamos a chegar à vila. Um amigo, a rir, emprestou-me um colete encarnado que trazia na mochila. Só mais tarde percebi que era dois tamanhos acima do meu: parecia que estava a vestir uma tenda vermelha.
 
-[Lembra-te de responder a perguntas como: *Quando foi? Com quem estavas? O que aconteceu? Como terminou? O que sentiste?*]
+Ao final da tarde, fomos ver a largada de toiros e depois jantar a uma banca onde comemos uma picanha fantástica. No meio do jantar, uma senhora simpática aproximou-se, olhou para o meu colete enorme e disse que eu parecia um verdadeiro campino... que tinha engolido outro campino. Rimos todos, e até hoje esse colete tem direito a um lugar de honra nas nossas fotografias. À noite acabámos a dançar pop em plena rua, com o colete a balançar de um lado para o outro, e foi uma das noites mais divertidas do verão.
 
-> [Escreve aqui uma frase marcante da história — algo que alguém disse ou que tu pensaste nesse momento.]
+> "Rapaz, esse colete já deu para vestires a vila toda!"
 
 ## 4. Curiosidades
 
-| O quê                 | Descrição                    |
-|-----------------------|------------------------------|
-| Comida típica         | [ex.: sardinhas assadas]     |
-| Música ou dança       | [ex.: marchas populares]     |
-| Símbolo da festa      | [ex.: manjerico]             |
-| Uma tradição curiosa  | [descreve]                   |
+| O quê                 | Descrição                                                                 |
+|-----------------------|---------------------------------------------------------------------------|
+| Comida típica         | Picanha                                                                   |
+| Música ou dança       | Pop                                                                       |
+| Símbolo da festa      | O cravo vermelho preso ao colete encarnado                                |
+| Uma tradição curiosa  | Ver a largada de toiros ao final da tarde e depois jantar em família ou com amigos |
 
 ---
 
-*Obrigado(a) por leres a minha história!* 
+*Obrigado(a) por leres a minha história!*
