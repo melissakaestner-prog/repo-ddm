@@ -1,0 +1,3 @@
+Stage: prepara as alterações para o commit (git add .).
+
+Commit: guarda as alterações no histórico (git commit -m "Dica").
